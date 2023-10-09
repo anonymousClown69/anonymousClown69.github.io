@@ -46,6 +46,8 @@ PERFORMANCE OF THIS SOFTWARE.
 
 /*! ./useMediaQuery */
 
+/*! MIT License. Copyright 2015-2022 Richard Moore <me@ricmoo.com>. See LICENSE.txt. */
+
 /*! css-mediaquery */
 
 /*! hyphenate-style-name */
@@ -53,6 +55,10 @@ PERFORMANCE OF THIS SOFTWARE.
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 /*! matchmediaquery */
+
+/*! noble-hashes - MIT License (c) 2022 Paul Miller (paulmillr.com) */
+
+/*! noble-secp256k1 - MIT License (c) 2019 Paul Miller (paulmillr.com) */
 
 /*! object-assign */
 
