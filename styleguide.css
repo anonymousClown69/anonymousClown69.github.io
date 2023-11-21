@@ -1,0 +1,10 @@
+:root {
+    --black: rgba(0, 0, 0, 1);
+    --text-regular-normal-font-family: "Roboto-Regular", Helvetica;
+    --text-regular-normal-font-size: 16px;
+    --text-regular-normal-font-style: normal;
+    --text-regular-normal-font-weight: 400;
+    --text-regular-normal-letter-spacing: 0px;
+    --text-regular-normal-line-height: 150%;
+    --white: rgba(255, 255, 255, 1);
+  }

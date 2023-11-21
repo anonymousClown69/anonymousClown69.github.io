@@ -1,0 +1,55 @@
+.minute {
+    height: 40px;
+    overflow: hidden;
+    position: relative;
+    width: 40px;
+  }
+  
+  .minute .element {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: -2px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+  }
+  
+  .minute .minute-06 {
+    top: -39px;
+  }
+  
+  .minute .minute-01 {
+    top: -87px;
+  }
+  
+  .minute .minute-04 {
+    top: -39px;
+  }
+  
+  .minute .default {
+    top: 9px;
+  }
+  
+  .minute .minute-07 {
+    top: 9px;
+  }
+  
+  .minute .minute-03 {
+    top: -87px;
+  }
+  
+  .minute .minute-08 {
+    top: 9px;
+  }
+  
+  .minute .minute-05 {
+    top: -39px;
+  }
+  
+  .minute .minute-02 {
+    top: -87px;
+  }
+  
